@@ -10,7 +10,7 @@ This is an "Advice Generator" app built with Vite and React. The app generates r
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/diego-nathanael/advice-generator.git`
+1. Clone the repository: `git clone https://github.com/DiegoNathanael/advice-generator.git`
 2. Navigate to the project directory: `cd advice-generator`
 3. Install dependencies: `npm install`
 
