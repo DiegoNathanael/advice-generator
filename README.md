@@ -17,7 +17,7 @@ This is an "Advice Generator" app built with Vite and React. The app generates r
 ## Usage
 
 1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the app.
+2. Open your browser and visit `http://localhost:5173` to view the app.
 
 ## Plugins
 
